@@ -1,0 +1,623 @@
+,JobID,Designation,Industry,Location,Skills,DetailID,CompanyID
+0,238770,Product Owner,Agriculture / Dairy,Bangalore,"Product Management, Agile, Data Analysis, Stakeholder Management, Warranty Management",393,4
+1,232279,Sales Associate,Agriculture / Dairy,"Hyderabad, Pune","Business Development, Corporate Sales, Sales",136,83
+2,258174,CRM & Digital Marketing Specialist,Agriculture / Dairy,Work From Home,"Brand Management, Business Development, Corporate Strategy, General Management, Operations Management, Strategic Planning",24,156
+3,220759,Training Consultant,Airlines / Aviation / Aerospace,Delhi,"Direct Sales, Telecalling",338,45
+4,241862,Business Development Manager,Airlines / Aviation / Aerospace,Mumbai,"Business Development, Sales",229,281
+5,258649,Sales Consultant,Airlines / Aviation / Aerospace,Delhi,"Direct Sales, International Sales, Sales",329,300
+6,258073,Business Development Executive,Animation / Graphic / Design,Mumbai,"Business Development, Sales",229,64
+7,249865,Sales Executive,Animation / Graphic / Design,Chennai,"Business Development, Direct Sales, International Sales, Sales, Telecalling",147,271
+8,250921,E - Commerce Manager,Apparel / Fashion,Delhi,"Customer Interaction, Customer Relationship, Customer Service",297,53
+9,234607,Retail Sales Executive,Apparel / Fashion,Chennai,"Direct Sales, Sales",334,95
+10,194206,Customer Experience Associate,Apparel / Fashion,Delhi,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,104
+11,263798,Big Data Scientist,Apparel / Fashion,Bangalore,"Java, Python, SQA, Spark, Scala",363,127
+12,236683,Copywriter,Apparel / Fashion,Kolkata,"Content Marketing, Content Writing, English Content",256,157
+13,113031,Sales Executives - B2B,Apparel / Fashion,"Delhi, Jaipur, Mumbai","Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,297
+14,113035,Sales Manager,Apparel / Fashion,Mumbai,"Business Development, Corporate Sales, Direct Sales",44,297
+15,256649,Sales Manager,Architecture / Interior Design,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,137
+16,261974,Senior Content Writer,Architecture / Interior Design,Noida,Content Writing,265,146
+17,226934,Senior Sales Executive,Architecture / Interior Design,Bangalore,"Business Development, Direct Sales, Sales, Telecalling",171,303
+18,238770,Product Owner,Automotive,Bangalore,"Product Management, Agile, Data Analysis, Stakeholder Management, Warranty Management",393,4
+19,234368,Sales Consultant,Automotive,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,36
+20,263190,Corporate Sales Manager,Automotive,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,94
+21,227715,Area Sales Manager,Automotive,"Ahmedabad, Gandhidham, Mumbai","Business Development, Direct Sales, Sales",163,109
+22,198835,Zonal Head - Sales,Automotive,"Jaipur, Kolkata, Surat","Business Development, Direct Sales, Sales",163,109
+23,241120,Relationship Manager,Automotive,Kolkata,"Customer Relationship, Direct Sales, Sales",315,135
+24,266251,Customer Support Executive,Automotive,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,241
+25,266255,Regional Manager,Automotive,Bangalore,"Business Development, Corporate Sales, Telecalling",141,241
+26,264033,Area Sales Manager,Automotive,"Mumbai, Nasik, Pune",Sales,418,249
+27,258954,Assistant Manager - Procurement & Supply Chain,Automotive,Kolkata,"Procurement, Supply Chain Management, Vendor Management, Warehouse Operations",388,291
+28,264394,AVP Operations,Banking / Financial / Insurance,Gurgaon,"Operations Management, Quality Control, Vendor Management",384,66
+29,265179,Regional Sales Manager (State Head - Sales),Banking / Financial / Insurance,"Chennai, Cochin, Mumbai",Sales,418,161
+30,264931,DevOps Engineer,Banking / Financial / Insurance,Bangalore,"AWS, Kubernetes, Linux, RDBMS, SQL",5,167
+31,265719,Finance Controller,Banking / Financial / Insurance,Bangalore,"Accounting, Auditing, Finance, Taxation, Budgeting, Chartered Accountant, External Audit, Financial Analysis, Financial Planning, Financial Reporting, GST, Internal Audit, MIS, Tally",10,214
+32,265676,Associate Growth Manager,Banking / Financial / Insurance,Gurgaon,"Direct Sales, Sales",334,221
+33,266939,Relationship Manager - Lender Partner,Banking / Financial / Insurance,Bangalore,"Finance, Partnerships",341,254
+34,265410,Relationship Manager,Banking / Financial / Insurance,Vadodara,"Business Development, Direct Sales, Sales",163,255
+35,266953,Content Writing Specialist,Banking / Financial / Insurance,Mumbai,"Content Marketing, Content Writing",248,307
+36,266902,Senior Manager - Strategic and Management,Banking / Financial / Insurance,Mumbai,"General Management, Corporate Strategy, Strategic Planning",344,307
+37,264825,Inside Sales Representative,Banking / Financial / Insurance,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,332
+38,258456,Agency Manager,Banking / Financial / Insurance,"Delhi, Greater Noida, Noida","Business Development, Direct Sales, Sales",163,10
+39,254367,collection manager,Banking / Financial / Insurance,Chennai,"Customer Interaction, Customer Relationship, Customer Service",297,112
+40,257545,Collection Officer - Telecalling,Banking / Financial / Insurance,Bangalore,Telecalling,425,124
+41,263798,Big Data Scientist,Banking / Financial / Insurance,Bangalore,"Java, Python, SQA, Spark, Scala",363,127
+42,254211,DSA Relationship Manager,Banking / Financial / Insurance,"Bangalore, Delhi, Mumbai",Sales,418,354
+43,260488,Sr. Product Manager,Banking / Financial / Insurance,Bangalore,"Product Management, UX Design, Wireframing",395,214
+44,257387,Internal Controls Analyst,Banking / Financial / Insurance,"Bangalore, Chennai, Work From Home","Operations Management, Process Improvement",381,218
+45,261719,Call Centre Operations Manager,Banking / Financial / Insurance,Pune,"BPO Operations, Call Center Operations, Customer Interaction, Customer Service",20,284
+46,255013,Associate Director Growth,Banking / Financial / Insurance,Bangalore,"Product Lifecycle Management, Product Management, UX Design",389,324
+47,254355,Senior Data Scientist,Banking / Financial / Insurance,Bangalore,"Credit Risk Management, Python, SQL",279,335
+48,253553,Escalation Specialist,Banking / Financial / Insurance,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,7
+49,253559,Policy Advisor,Banking / Financial / Insurance,Bangalore,Sales,418,7
+50,252103,Content Marketer,Banking / Financial / Insurance,"Bangalore, Mumbai, Pune",Content Writing,265,89
+51,247125,Inside Sales,Banking / Financial / Insurance,Kolkata,"Direct Sales, Sales, Telecalling",337,92
+52,245660,Financial Sales Consultants,Banking / Financial / Insurance,"Indore, Kolkata","International Sales, Sales",358,176
+53,254062,Accounts Manager,Banking / Financial / Insurance,Bangalore,"Accounting, Finance, Taxation, GST, Income Tax, MIS, Payroll Management, Tally, TDS",16,204
+54,250045,Manager / Sr. Manager - Business Development,Banking / Financial / Insurance,Gurgaon,"Business Development, Sales",229,212
+55,249614,Software Development Engineer III / IV,Banking / Financial / Insurance,"Bangalore, Hyderabad, Work From Home","Big Data, Django, Express.js, Flask, Golang, Java, MySQL, Node.js, PostgreSQL, Python, Ruby, Ruby on Rails",22,215
+56,248950,Lead Software Engineer (Web),Banking / Financial / Insurance,Bangalore,"GraphQL, Node.js, React.js",347,218
+57,252448,National Head - DSA Channel,Banking / Financial / Insurance,Bangalore,"Direct Sales, Business Development, Channel Sales, Escalation Management, Loans",328,254
+58,239954,QA Engineer,Banking / Financial / Insurance,Bangalore,Automation Testing,19,29
+59,245483,Territory Sales Manager,Banking / Financial / Insurance,Delhi,"Business Development, Direct Sales, Sales",163,65
+60,241155,Qualified CA,Banking / Financial / Insurance,Gurgaon,"Accounting, Auditing, Finance, Taxation, Chartered Accountant, Financial Planning, Financial Reporting, GST, Income Tax, MIS, TDS",12,88
+61,241120,Relationship Manager,Banking / Financial / Insurance,Kolkata,"Customer Relationship, Direct Sales, Sales",315,135
+62,239884,Telecalling - Sales Executive,Banking / Financial / Insurance,Ahmedabad,"Sales, Telecalling",422,167
+63,242736,Corporate - Relationship Manager,Banking / Financial / Insurance,"Bangalore, Chennai","Business Development, Corporate Sales, Direct Sales, Sales",94,172
+64,243204,Regional Manager,Banking / Financial / Insurance,Lucknow,"Business Development, Sales",229,198
+65,243115,Enterprise Sales Officer,Banking / Financial / Insurance,Hyderabad,"Business Development, Corporate Sales, Direct Sales, Sales",94,246
+66,242640,Enterprises Sales Officer,Banking / Financial / Insurance,Hyderabad,"Business Development, Direct Sales, Sales",163,246
+67,241481,Business Development Executive,Banking / Financial / Insurance,Hyderabad,"Business Development, Direct Sales, Sales, Telecalling",171,336
+68,231007,Wealth Management Executive,Banking / Financial / Insurance,Noida,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,3
+69,238771,Product Owner,Banking / Financial / Insurance,Bangalore,"HR Analytics, Product Management, Agile, Change Management, Compliance Management",348,4
+70,233727,Sales Manager,Banking / Financial / Insurance,"Mumbai, Navi Mumbai, Pune","Business Development, Mutual Funds, Sales",197,89
+71,237132,Fix Engineer 2,Banking / Financial / Insurance,Bangalore,Python,396,103
+72,235458,Sales Manager,Banking / Financial / Insurance,Bangalore,"Customer Relationship, Marketing, Sales",317,132
+73,238420,Customer Success Manager,Banking / Financial / Insurance,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,167
+74,239857,Institutional Sales,Banking / Financial / Insurance,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales",94,194
+75,231542,Unit Manager - B2B Sales [Mutual Fund & Insurance,Banking / Financial / Insurance,"Indore, Solapur","Business Development, Sales",229,200
+76,239213,Data Analyst,Banking / Financial / Insurance,Bangalore,"Python, SQL",398,324
+77,238917,Data Scientist,Banking / Financial / Insurance,Bangalore,"Python, SQL, Machine Learning, R",399,324
+78,224569,Business Growth Executive,Banking / Financial / Insurance,Gurgaon,"Business Development, Sales, Telecalling",236,50
+79,227209,Senior Product Manager,Banking / Financial / Insurance,Gurgaon,Product Management,392,57
+80,220412,Business Analyst - BFSI / CRM,Banking / Financial / Insurance,"Mumbai, Noida",Business Analysis,25,55
+81,226317,Sr. Associate - Internal Operations,Banking / Financial / Insurance,Mohali,"Accounting, Finance, MIS, Payroll Management, QuickBooks",14,100
+82,223830,Technical Architect,Banking / Financial / Insurance,Bangalore,"Node.js, Distributed Systems, JavaScript, TypeScript",372,105
+83,214384,Sales Manager,Banking / Financial / Insurance,Bangalore,"Customer Relationship, Sales, Telecalling",318,132
+84,223010,Director - Data Science,Banking / Financial / Insurance,Bangalore,"Python, SQL, NLP, Scala",400,244
+85,222389,Senior Data Scientist,Banking / Financial / Insurance,Bangalore,"Python, AWS, ETL, NLP, SQL",397,244
+86,227483,Staff Engineer,Banking / Financial / Insurance,Noida,"React.js, Architecture, HTML, JavaScript, Redux",401,290
+87,218909,Product Manager,Banking / Financial / Insurance,Bangalore,"Product Management, Product Lifecycle Management",394,312
+88,197170,Insurance Manager - Motor Insurance,Banking / Financial / Insurance,Ahmedabad,"Customer Interaction, Customer Relationship, Customer Service",297,27
+89,145662,Engineering Manager,Banking / Financial / Insurance,Bangalore,"Golang, Java, JavaScript, Python",346,103
+90,201487,DevOps Engineer,Banking / Financial / Insurance,Work From Home,"AWS, Azure, DevOps, Docker, Kubernetes",3,122
+91,197275,Sales Executive,Banking / Financial / Insurance,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales",94,148
+92,206513,Senior Software Engineer,Banking / Financial / Insurance,Bangalore,".NET, C#, Django, Golang, Hibernate, J2EE, Java, Python",0,199
+93,88514,Business Development Associate,Banking / Financial / Insurance,"Bangalore, Delhi, Work From Home","Business Development, Corporate Sales, Sales",136,223
+94,211281,Senior Product Manager,Banking / Financial / Insurance,Bangalore,"Consumer Software, Product Management",241,261
+95,149496,Territory Sales Manager,Banking / Financial / Insurance,"Delhi, Mumbai, Pune","Business Development, Corporate Sales, Sales",136,340
+96,266552,Customer Support Manager,BPO / Outsourcing,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,41
+97,261508,Customer Relationship Manager,BPO / Outsourcing,Work From Home,"Customer Interaction, Customer Relationship, Customer Service",297,108
+98,264783,Telecaller,BPO / Outsourcing,Jaipur,"Sales, Telecalling",422,142
+99,266044,Process Coordinator,BPO / Outsourcing,Bhopal,"Customer Interaction, Customer Relationship, Customer Service",297,139
+100,259038,Senior / Executive Business Development,BPO / Outsourcing,Coimbatore,"Business Development, Corporate Sales, International Sales, Sales",119,207
+101,261719,Call Centre Operations Manager,BPO / Outsourcing,Pune,"BPO Operations, Call Center Operations, Customer Interaction, Customer Service",20,284
+102,265001,Content Writer,BPO / Outsourcing,Delhi,"Content Writing, English Content",271,282
+103,258649,Sales Consultant,BPO / Outsourcing,Delhi,"Direct Sales, International Sales, Sales",329,300
+104,266287,Business Development,BPO / Outsourcing,Work From Home,"Business Development, Direct Sales, Sales, Telecalling",171,330
+105,264825,Inside Sales Representative,BPO / Outsourcing,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,332
+106,253553,Escalation Specialist,BPO / Outsourcing,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,7
+107,253559,Policy Advisor,BPO / Outsourcing,Bangalore,Sales,418,7
+108,249919,Assistant Manager - Customer Success,BPO / Outsourcing,Noida,Operations Management,379,30
+109,255685,Customer Support Executive,BPO / Outsourcing,Hosur,"Customer Interaction, Customer Relationship, Customer Service",297,115
+110,255690,Process Trainer,BPO / Outsourcing,Chennai,"Behavioural Training, Corporate Training, Training Management",21,115
+111,253482,Sales Support,BPO / Outsourcing,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service, Grievance Management",298,130
+112,252509,Customer Service Executive,BPO / Outsourcing,Mumbai,"Customer Relationship, Customer Service",314,147
+113,246937,Primary Research Analyst,BPO / Outsourcing,Pune,"Customer Interaction, Customer Relationship, Customer Service",297,179
+114,249219,Telecaller,BPO / Outsourcing,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service",297,236
+115,254370,Sr. Collections Executive,BPO / Outsourcing,Hyderabad,"Customer Interaction, Customer Relationship",280,239
+116,241291,Technical Account Manager,BPO / Outsourcing,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,47
+117,224569,Business Growth Executive,BPO / Outsourcing,Gurgaon,"Business Development, Sales, Telecalling",236,50
+118,229346,Business Development Executive,BPO / Outsourcing,Madurai,"Business Development, Sales, Telecalling",236,96
+119,236699,Document Review & Validator Analyst,BPO / Outsourcing,"Hyderabad, Work From Home","Customer Service, Key Account Management",324,110
+120,242442,Telecaller Executive - Outbound,BPO / Outsourcing,Bangalore,Telecalling,425,159
+121,243932,Customer Support Engineer,BPO / Outsourcing,Work From Home,"CRM, Customer Interaction, Customer Relationship, Customer Service, Desktop Troubleshooting",237,166
+122,241201,Market Research Analyst,BPO / Outsourcing,Pune,"Business Development, International Sales, Sales, Telecalling",196,179
+123,233593,Customer Care Services,BPO / Outsourcing,Hyderabad,Customer Service,322,201
+124,240460,Inside Sales Specialist,BPO / Outsourcing,Hyderabad,"Sales, Telecalling",422,289
+125,226941,Business Development Executive - Sales (Tamil),BPO / Outsourcing,Noida,"Business Development, Corporate Sales, International Sales, Sales",119,344
+126,176880,Sales Executive,BPO / Outsourcing,Faridabad,Sales,418,90
+127,219806,Spanish Language Expert,BPO / Outsourcing,Kolkata,Customer Service,322,326
+128,260209,Customer Success Account Manager,Computer Hardware / Networking,Work From Home,"International Sales, Sales",358,11
+129,241291,Technical Account Manager,Computer Hardware / Networking,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,47
+130,242964,Principal Product Manager,Computer Hardware / Networking,Bangalore,Product Management,392,69
+131,263532,Business Development,Computer Hardware / Networking,Bangalore,"Business Development, Sales",229,153
+132,266923,Sales Development Representative (Hybrid),Computer Hardware / Networking,"Bangalore, Gurgaon","Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,165
+133,240641,Telemarketing Specialist,Computer Hardware / Networking,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,174
+134,266267,B2B Enterprise Marketing Specialist,Computer Hardware / Networking,Work From Home,Business Development,36,186
+135,255706,Technical Consulting Engineer - Networking,Computer Hardware / Networking,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,253
+136,253290,Branch Manager - Software Sales,Computer Hardware / Networking,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales",94,278
+137,255049,Operations Manager,Computer Hardware / Networking,Gurgaon,"Operations Management, Process Improvement",381,301
+138,225906,Account Manager,Computer Hardware / Networking,Delhi,"Business Development, Sales",229,72
+139,229068,Support Engineer,Computer Hardware / Networking,Bangalore,"Customer Interaction, Customer Service, Key Account Management",313,79
+140,123019,Customer Success Specialist,Computer Hardware / Networking,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,138
+141,266833,Business Development Executive,Computer Software / IT / Internet,Work From Home,Business Development,36,1
+142,266552,Customer Support Manager,Computer Software / IT / Internet,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,41
+143,266937,Content Writer,Computer Software / IT / Internet,Bangalore,"Content Marketing, Content Writing, English Content",256,94
+144,257944,Business Manager (Drive),Computer Software / IT / Internet,"Calicut, Patna, Pune","Business Development, Channel Sales, Key Account Management, Microsoft Excel, Microsoft PowerPoint, Sales, Stakeholder Management",41,175
+145,257946,Business Manager (Drive),Computer Software / IT / Internet,"Chennai, Dehradun, Rajkot","Business Development, Channel Sales, Key Account Management, Microsoft Excel, Microsoft PowerPoint, Sales, Stakeholder Management",41,175
+146,257930,Key Account Manager (Drive),Computer Software / IT / Internet,Mumbai,"Corporate Sales, Key Account Management, Profit and Loss Management, Sales, Stakeholder Management",278,175
+147,257080,Inside Sales Associate (Drive),Computer Software / IT / Internet,"Greater Noida, Noida","Business Development, Direct Sales, Sales, Telecalling",171,195
+148,260537,Lead Development (Influencer Marketing) (Drive),Computer Software / IT / Internet,Bangalore,"Business Development, CRM, Lead Generation, Marketing",38,213
+149,266953,Content Writing Specialist,Computer Software / IT / Internet,Mumbai,"Content Marketing, Content Writing",248,307
+150,260553,Account Executive (Drive),Computer Software / IT / Internet,Bangalore,"Business Development, CRM, Corporate Sales, Google Workspace, Microsoft Office, Sales",37,329
+151,264876,Technical Content Writer - Academic,Computer Software / IT / Internet,Chandigarh,Content Writing,265,19
+152,265443,Sales Development Representative,Computer Software / IT / Internet,Bangalore,"Business Development, Sales",229,37
+153,266488,Business Devlopment Executive / Manager,Computer Software / IT / Internet,Vadodara,"Business Development, Sales",229,348
+154,266267,B2B Enterprise Marketing Specialist,Computer Software / IT / Internet,Work From Home,Business Development,36,186
+155,265999,Business Development Executive,Computer Software / IT / Internet,Noida,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,210
+156,265722,Sales Development Representative,Computer Software / IT / Internet,Pune,"Business Development, Corporate Sales, International Sales, Sales",119,219
+157,265001,Content Writer,Computer Software / IT / Internet,Delhi,"Content Writing, English Content",271,282
+158,266148,Software Engineer,Computer Software / IT / Internet,Bangalore,"Microservices, NoSQL, Java, Node.js, React.js",370,320
+159,265435,Business Development,Computer Software / IT / Internet,Noida,"Business Development, Sales",229,322
+160,266287,Business Development,Computer Software / IT / Internet,Work From Home,"Business Development, Direct Sales, Sales, Telecalling",171,330
+161,264623,Business Development Executive,Computer Software / IT / Internet,Work From Home,"Business Development, International Sales, Sales",193,26
+162,262934,Staff Software QA Engineer,Computer Software / IT / Internet,Work From Home,"Microservices, Performance Testing, REST Assured, Selenium",371,63
+163,263190,Corporate Sales Manager,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,94
+164,262715,Technical Account Manager,Computer Software / IT / Internet,Bangalore,"Corporate Sales, International Sales, Sales",277,116
+165,261819,Senior React Developer,Computer Software / IT / Internet,Pune,"React.js, Redux",402,125
+166,262861,Content Marketing Manager,Computer Software / IT / Internet,Work From Home,"Content Marketing, Content Writing, English Content",256,136
+167,264679,Business Analyst (Pre and Post Sales),Computer Software / IT / Internet,Jaipur,"International Sales, Sales",358,351
+168,263532,Business Development,Computer Software / IT / Internet,Bangalore,"Business Development, Sales",229,153
+169,264512,Client Relationship Manager - Saas Product,Computer Software / IT / Internet,Noida,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,178
+170,261795,Support Specialist,Computer Software / IT / Internet,"Bangalore, Chennai","Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,287
+171,260209,Customer Success Account Manager,Computer Software / IT / Internet,Work From Home,"International Sales, Sales",358,11
+172,261355,Business Development Associate,Computer Software / IT / Internet,Gurgaon,"Business Development, International Sales, Sales",193,102
+173,261508,Customer Relationship Manager,Computer Software / IT / Internet,Work From Home,"Customer Interaction, Customer Relationship, Customer Service",297,108
+174,261197,Sales Business Development,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Sales, Telecalling",140,159
+175,260986,Sales Development Representative,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,159
+176,260148,Business Development Manager,Computer Software / IT / Internet,Noida,"Business Development, Corporate Sales, Direct Sales, Sales",94,353
+177,261602,Business Development Manager,Computer Software / IT / Internet,Work From Home,"Business Development, Sales",229,208
+178,261719,Call Centre Operations Manager,Computer Software / IT / Internet,Pune,"BPO Operations, Call Center Operations, Customer Interaction, Customer Service",20,284
+179,261530,Support Specialist,Computer Software / IT / Internet,Chennai,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,287
+180,260532,Client Solutions Executive,Computer Software / IT / Internet,Delhi,Sales,418,314
+181,258709,RFP Writer,Computer Software / IT / Internet,Pune,"Content Writing, English Content",271,0
+182,258616,Account Executive,Computer Software / IT / Internet,Work From Home,"Business Development, EMEA, International Sales, SMB",172,97
+183,258585,Associate Customer Success Manager,Computer Software / IT / Internet,Hyderabad,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,352
+184,258495,Customer Success Analyst,Computer Software / IT / Internet,Hyderabad,"Customer Interaction, Customer Relationship, Customer Service",297,352
+185,258144,Executive Assistance,Computer Software / IT / Internet,"Gurgaon, Work From Home","Business Development, General Management, Corporate Strategy, Strategic Planning",173,165
+186,259650,Product Trainer,Computer Software / IT / Internet,"Bangalore, Delhi","Customer Interaction, Customer Relationship, Customer Service",297,189
+187,258949,Senior DevOps Engineer,Computer Software / IT / Internet,Bangalore,"AWS, CI - CD, DNS, DevOps, FTP, HTTP, Linux, Perl, PowerShell, Python, SSH, Shell Scripting",4,192
+188,259038,Senior / Executive Business Development,Computer Software / IT / Internet,Coimbatore,"Business Development, Corporate Sales, International Sales, Sales",119,207
+189,258909,Account Executive,Computer Software / IT / Internet,Gurgaon,"Accounting, Auditing, Finance, Taxation, Budgeting, Chartered Accountant, External Audit, Financial Analysis, Financial Planning, Financial Reporting, GST, Income Tax, Internal Audit, Payroll Management, QuickBooks, Sales Tax, Statutory Audit, TDS, VAT, Zoho Books",9,269
+190,258327,Email Marketing Specialist,Computer Software / IT / Internet,"Chennai, Coimbatore",Business Development,36,321
+191,256078,Sales Development Representative,Computer Software / IT / Internet,Work From Home,"Business Development, Corporate Sales, Sales",136,23
+192,256835,Sales Manager,Computer Software / IT / Internet,Work From Home,"Corporate Sales, Direct Sales, International Sales, Sales",274,32
+193,257387,Internal Controls Analyst,Computer Software / IT / Internet,"Bangalore, Chennai, Work From Home","Operations Management, Process Improvement",381,218
+194,257292,Lead Product Designer - UI / UX,Computer Software / IT / Internet,Bangalore,"UX Design, Figma, Photoshop, Sketch",426,225
+195,256702,Senior Content Writer,Computer Software / IT / Internet,Ahmedabad,"Content Marketing, Content Writing",248,240
+196,256696,AVP - Sales,Computer Software / IT / Internet,"Delhi, Kolkata","Business Development, International Sales, Sales",193,243
+197,256695,Global Brand Manager,Computer Software / IT / Internet,"Delhi, Kolkata","ATL, BTL, Brand Management, Digital Marketing, Game Development, Marketing Communication",1,243
+198,255595,Business Development Manager,Computer Software / IT / Internet,Chennai,Sales,418,266
+199,255792,Business Development Executive,Computer Software / IT / Internet,Dubai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,306
+200,256963,Sr. Business Development Executive,Computer Software / IT / Internet,Noida,"Business Development, International Sales, Sales",193,342
+201,255062,Manager - Fixed Assets and Lease Accounting,Computer Software / IT / Internet,Bangalore,"Accounting, Auditing, Finance, Chartered Accountant, Financial Reporting",8,51
+202,254711,Business Development Executive,Computer Software / IT / Internet,Mohali,Business Development,36,68
+203,255392,Admin Executive,Computer Software / IT / Internet,Ahmedabad,"Asset Management, Facility Management, Office Operations, Vendor Management",18,98
+204,253595,Regional Sales Manager,Computer Software / IT / Internet,United States (USA),"Business Development, Sales",229,113
+205,255036,Business Development Executive,Computer Software / IT / Internet,Indore,"Business Development, International Sales, Sales",193,216
+206,254366,International Product Sales,Computer Software / IT / Internet,Chennai,International Sales,351,227
+207,255050,Customer Success Specialist - SaaS,Computer Software / IT / Internet,Bangalore,"CRM, Customer Interaction, Customer Relationship, Customer Service, Key Account Management",238,248
+208,254525,Senior Manager- Implementation Operations,Computer Software / IT / Internet,Bangalore,"Accounting, Finance, Payroll Management",15,250
+209,255049,Operations Manager,Computer Software / IT / Internet,Gurgaon,"Operations Management, Process Improvement",381,301
+210,254681,Customer Success Associate,Computer Software / IT / Internet,Noida,"General Management, Strategic Planning",345,319
+211,252200,Key Account Manager - Brand Specialist,Computer Software / IT / Internet,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,18
+212,251515,Technical Program Manager,Computer Software / IT / Internet,Bangalore,"Agile, Program Management, Project Management, Scrum",17,33
+213,253571,Regional Sales Manager,Computer Software / IT / Internet,United States (USA),"Business Development, Sales",229,113
+214,253313,B2B Business Development Executive,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Sales",136,152
+215,252482,Sales Development Representative,Computer Software / IT / Internet,"Bangalore, Gurgaon","Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,165
+216,251713,DevOps Engineer - 3,Computer Software / IT / Internet,Bangalore,"AWS, Ansible, CI - CD, Jenkins, Kubernetes, Linux",2,222
+217,253290,Branch Manager - Software Sales,Computer Software / IT / Internet,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales",94,278
+218,252878,Content Writer,Computer Software / IT / Internet,Vadodara,Content Writing,265,283
+219,251058,Sales Development Representative,Computer Software / IT / Internet,Work From Home,"Business Development, Corporate Sales, International Sales, Sales",119,309
+220,250710,Assistant Manager - Sales,Computer Software / IT / Internet,Mumbai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,8
+221,249467,Executive Assistant,Computer Software / IT / Internet,Noida,"General Management, Corporate Strategy, Strategic Planning",344,25
+222,249919,Assistant Manager - Customer Success,Computer Software / IT / Internet,Noida,Operations Management,379,30
+223,249241,Senior Finance Operations Analyst,Computer Software / IT / Internet,Pune,"Accounting, Auditing, Finance, Chartered Accountant, Financial Analysis, Financial Planning, Financial Reporting",7,75
+224,250905,Engineering Manager,Computer Software / IT / Internet,Bangalore,"Engineering Management, Golang, Node.js, PostgreSQL, Redis, TypeScript",340,85
+225,249452,Inside Sales Associate,Computer Software / IT / Internet,"Bangalore, Chennai","Business Development, Corporate Sales, International Sales, Sales",119,140
+226,249614,Software Development Engineer III / IV,Computer Software / IT / Internet,"Bangalore, Hyderabad, Work From Home","Big Data, Django, Express.js, Flask, Golang, Java, MySQL, Node.js, PostgreSQL, Python, Ruby, Ruby on Rails",22,215
+227,249820,Business Development Representative,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, International Sales, Sales",119,264
+228,249865,Sales Executive,Computer Software / IT / Internet,Chennai,"Business Development, Direct Sales, International Sales, Sales, Telecalling",147,271
+229,249353,Business Developer,Computer Software / IT / Internet,Indore,"Business Development, Direct Sales, International Sales, Sales",146,325
+230,249111,Sales Development Representative,Computer Software / IT / Internet,Work From Home,"International Sales, Sales",358,31
+231,248573,Business Development Executive - IT Services Sales,Computer Software / IT / Internet,Mohali,"Business Development, International Sales, Sales",193,38
+232,248980,Senior Frontend Engineer,Computer Software / IT / Internet,Pune,"CSS, HTML, JavaScript, React.js",239,54
+233,247451,Software Development Engineer 2 - Data Acquisition,Computer Software / IT / Internet,Bangalore,"Hibernate, J2EE, Java, Spring",349,71
+234,247640,Sales Development Representative,Computer Software / IT / Internet,Work From Home,"Business Development, Corporate Sales, Direct Sales, Sales",94,80
+235,244796,Sales Lead,Computer Software / IT / Internet,Noida,"Business Development, Sales",229,118
+236,247025,Payroll Executive,Computer Software / IT / Internet,Bangalore,Customer Service,322,159
+237,243932,Customer Support Engineer,Computer Software / IT / Internet,Work From Home,"CRM, Customer Interaction, Customer Relationship, Customer Service, Desktop Troubleshooting",237,166
+238,243930,Technical Writer - Content,Computer Software / IT / Internet,Work From Home,Content Writing,265,166
+239,248950,Lead Software Engineer (Web),Computer Software / IT / Internet,Bangalore,"GraphQL, Node.js, React.js",347,218
+240,243888,Lead Generation,Computer Software / IT / Internet,Coimbatore,"International Sales, Sales",358,13
+241,241548,Sales Development Representative,Computer Software / IT / Internet,"Bangalore, Gurgaon, Mumbai","Business Development, International Sales, Sales",193,24
+242,242964,Principal Product Manager,Computer Software / IT / Internet,Bangalore,Product Management,392,69
+243,242605,Business Development Executive,Computer Software / IT / Internet,Pune,"Business Development, International Sales, Sales",193,111
+244,242000,Lead Generation Executive,Computer Software / IT / Internet,Noida,"Business Development, International Sales, Sales",193,117
+245,242356,Inside Sales Executive,Computer Software / IT / Internet,Chandigarh,Business Development,36,120
+246,243211,Director of Sales - SSB,Computer Software / IT / Internet,Bangalore,"International Sales, Sales",358,250
+247,241862,Business Development Manager,Computer Software / IT / Internet,Mumbai,"Business Development, Sales",229,281
+248,241517,Senior Content Writer,Computer Software / IT / Internet,Ahmedabad,Content Writing,265,299
+249,243500,Business Development Executive,Computer Software / IT / Internet,Chennai,"Business Development, Corporate Sales, International Sales, Sales",119,337
+250,239611,Asst. Sales Manager,Computer Software / IT / Internet,"Mumbai, Navi Mumbai","Business Development, Corporate Sales, Direct Sales, Sales",94,9
+251,241291,Technical Account Manager,Computer Software / IT / Internet,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,47
+252,239220,Key Account Manager - Application Sales - BFSI,Computer Software / IT / Internet,Mumbai,"Business Development, Corporate Sales, Sales",136,55
+253,238043,Outbound Sales Specialist,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,99
+254,239020,Executive Business Development,Computer Software / IT / Internet,Chennai,"Business Development, Sales",229,121
+255,240080,Business Development Manager,Computer Software / IT / Internet,Ahmedabad,"Business Development, International Sales, Sales",193,155
+256,240920,Senior Business Development Executive,Computer Software / IT / Internet,Mumbai,"Business Development, International Sales",175,229
+257,239596,Lead Generation Specialist,Computer Software / IT / Internet,Gurgaon,"Business Development, Sales",229,280
+258,239654,Business Development Manager,Computer Software / IT / Internet,Bhopal,"Business Development, Direct Sales, International Sales",144,313
+259,238593,Inside Sales Executive,Computer Software / IT / Internet,Noida,Sales,418,319
+260,235584,Sales and Marketing Professionals,Computer Software / IT / Internet,Nagpur,"Business Development, Corporate Sales, Direct Sales, Sales",94,20
+261,236118,Business Development Manager,Computer Software / IT / Internet,Noida,"Business Development, Corporate Sales, International Sales, Sales",119,44
+262,237055,Business Development Executive,Computer Software / IT / Internet,Indore,"Business Development, Corporate Sales, International Sales, Sales, Telecalling",121,77
+263,233133,Business Development Executive,Computer Software / IT / Internet,Ahmedabad,"Business Development, International Sales, Sales",193,154
+264,233449,Business Development Manager,Computer Software / IT / Internet,Surat,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,163
+265,235234,Key Account Manager,Computer Software / IT / Internet,Work From Home,"Business Development, International Sales, Sales",193,202
+266,237457,Business Development Manager,Computer Software / IT / Internet,Noida,"Business Development, International Sales, Sales",193,209
+267,236106,Business Development Manager,Computer Software / IT / Internet,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,211
+268,234446,Product Manager,Computer Software / IT / Internet,Bangalore,Product Management,392,245
+269,233809,Sr. Associate / AM - Global Supply Acquisition,Computer Software / IT / Internet,Noida,"Contract Drafting, KAM, Property Acquisition, Proposal Writing",273,311
+270,230779,Inside Sales Specialist,Computer Software / IT / Internet,"Hyderabad, Pune","Customer Interaction, Customer Relationship, Customer Service",297,0
+271,231162,Sales Development Representative,Computer Software / IT / Internet,"Bangalore, Work From Home","Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,15
+272,232279,Sales Associate,Computer Software / IT / Internet,"Hyderabad, Pune","Business Development, Corporate Sales, Sales",136,83
+273,229346,Business Development Executive,Computer Software / IT / Internet,Madurai,"Business Development, Sales, Telecalling",236,96
+274,229386,Business Development Executive,Computer Software / IT / Internet,"Hyderabad, Work From Home","Business Development, International Sales, Lead Generation, Sales",176,349
+275,231200,Presales Executive,Computer Software / IT / Internet,"Bangalore, Mumbai","Business Development, Corporate Sales, Direct Sales, Sales",94,145
+276,232453,Senior Business Development Specialist,Computer Software / IT / Internet,Noida,"Business Development, International Sales, Sales",193,151
+277,231271,Sales Executive (B2B),Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,305
+278,232441,Business Development Representative,Computer Software / IT / Internet,Work From Home,"Business Development, Corporate Sales, International Sales, Sales",119,328
+279,229745,Content Marketer (Tech),Computer Software / IT / Internet,Bangalore,"Content Marketing, Content Writing",248,341
+280,226072,Enterprise SAAS Sales,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, International Sales, Sales",119,43
+281,226959,DevOps Engineer 3,Computer Software / IT / Internet,Bangalore,"AWS, Kubernetes, Linux, Terraform",6,62
+282,229342,IT Sales Manager,Computer Software / IT / Internet,Madurai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,96
+283,227715,Area Sales Manager,Computer Software / IT / Internet,"Ahmedabad, Gandhidham, Mumbai","Business Development, Direct Sales, Sales",163,109
+284,225219,Inside Sales Executive,Computer Software / IT / Internet,Gurgaon,"Business Development, Sales",229,206
+285,226831,Business Development Executive,Computer Software / IT / Internet,Noida,"Business Development, Direct Sales, International Sales, Sales",146,209
+286,227643,IT Sales Consultant,Computer Software / IT / Internet,Pune,"Business Development, Corporate Sales, Sales",136,220
+287,228865,Digital Marketing Manager,Computer Software / IT / Internet,Mumbai,"Digital Marketing, Google Analytics, Performance Marketing, Google Ads",326,285
+288,227483,Staff Engineer,Computer Software / IT / Internet,Noida,"React.js, Architecture, HTML, JavaScript, Redux",401,290
+289,225933,Inside Sales Executive,Computer Software / IT / Internet,"Lucknow, Work From Home","Business Development, Sales, Telecalling",236,298
+290,224615,Business Development,Computer Software / IT / Internet,Gurgaon,"Business Development, Corporate Sales, Sales, Telecalling",140,39
+291,214020,Sales & Business Development,Computer Software / IT / Internet,Mumbai,"Business Development, Sales, Sales Enablement",230,106
+292,218579,Customer Success Representative,Computer Software / IT / Internet,"Bangalore, Mumbai","Customer Relationship, Key Account Management",316,107
+293,204813,SDE III - Technical Lead,Computer Software / IT / Internet,Bangalore,Java,362,129
+294,222412,Customer Success - Implementation Specialist,Computer Software / IT / Internet,"Bangalore, Gurgaon, Mumbai","Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,164
+295,206538,Software Sales,Computer Software / IT / Internet,Gurgaon,"Business Development, International Sales, Sales",193,173
+296,206513,Senior Software Engineer,Computer Software / IT / Internet,Bangalore,".NET, C#, Django, Golang, Hibernate, J2EE, Java, Python",0,199
+297,205510,Bussiness Development Executive,Computer Software / IT / Internet,Indore,"Business Development, Sales",229,234
+298,219087,Content Strategist,Computer Software / IT / Internet,Bangalore,"Content Marketing, Content Writing",248,242
+299,215542,IT Product / Sales Manager,Computer Software / IT / Internet,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,304
+300,194538,Customer Success Specialist,Computer Software / IT / Internet,Bangalore,"Customer Interaction, Customer Relationship, Key Account Management",312,71
+301,194206,Customer Experience Associate,Computer Software / IT / Internet,Delhi,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,104
+302,198835,Zonal Head - Sales,Computer Software / IT / Internet,"Jaipur, Kolkata, Surat","Business Development, Direct Sales, Sales",163,109
+303,174155,Account Executive,Computer Software / IT / Internet,Gurgaon,"Business Development, Corporate Sales, International Sales, Sales",119,138
+304,201480,Business Development Executive,Computer Software / IT / Internet,Bangalore,"Business Development, Corporate Sales, Sales, Sales Enablement, Telecalling",137,159
+305,191709,Customer Support Associate,Computer Software / IT / Internet,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,191
+306,194779,BDE,Computer Software / IT / Internet,Indore,"Business Development, Sales",229,193
+307,181559,Senior Software Engineer,Computer Software / IT / Internet,Bangalore,"Distributed Systems, Java, Microservices",339,203
+308,179908,Business Development Manager,Computer Software / IT / Internet,Indore,"Business Development, Sales",229,234
+309,188840,Sales Manager,Computer Software / IT / Internet,Mumbai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,274
+310,59570,Business Development Executive,Computer Software / IT / Internet,Mohali,"Business Development, Sales",229,56
+311,81535,Business Analyst,Computer Software / IT / Internet,Jaipur,"Business Development, Direct Sales",143,82
+312,123019,Customer Success Specialist,Computer Software / IT / Internet,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,138
+313,83118,Content Writer,Computer Software / IT / Internet,"Chennai, Work From Home","Content Marketing, Content Writing",248,149
+314,88514,Business Development Associate,Computer Software / IT / Internet,"Bangalore, Delhi, Work From Home","Business Development, Corporate Sales, Sales",136,223
+315,164981,Product Content Writer,Computer Software / IT / Internet,Pune,"Content Marketing, Content Writing, English Content",256,228
+316,116727,Business Development Executive,Computer Software / IT / Internet,"Ahmedabad, Bangalore, Hyderabad","Business Development, Corporate Sales, Direct Sales, International Sales, Lead Generation, Sales, Sales Operations",46,308
+317,154018,B2B Sales Manager,Computer Software / IT / Internet,Work From Home,"Business Development, Corporate Sales, Direct Sales, International Sales, Lead Generation, Revenue Management, Sales",45,310
+318,214383,Assistant Sales Manager,Construction / Civil Engineering,Bangalore,Direct Sales,327,123
+319,214385,Assistant Sales Manager,Construction / Civil Engineering,Delhi,"Direct Sales, Sales, Business Development",335,123
+320,255668,Marketing Manager,Construction / Civil Engineering,Delhi,"Marketing, Marketing Operations, Product Management, Product Marketing",369,123
+321,256649,Sales Manager,Construction / Civil Engineering,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,137
+322,250042,Corporate Sales Executive,Construction / Civil Engineering,Chandigarh,"Corporate Sales, Direct Sales, Sales",276,257
+323,255062,Manager - Fixed Assets and Lease Accounting,Consumer Electronics,Bangalore,"Accounting, Auditing, Finance, Chartered Accountant, Financial Reporting",8,51
+324,244358,Sales Officer,Consumer Goods / FMCG,Ghaziabad,"Business Development, Corporate Sales, Direct Sales, Sales",94,17
+325,246654,Founder's Office Manager,Consumer Goods / FMCG,Delhi,Business Development,36,40
+326,235458,Sales Manager,Consumer Goods / FMCG,Bangalore,"Customer Relationship, Marketing, Sales",317,132
+327,265258,Regional Manager,Consumer Goods / FMCG,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,143
+328,243146,JC JHD Sales Lead,Consumer Goods / FMCG,Hyderabad,"Business Development, Direct Sales, Sales",163,246
+329,255066,Territory Sales Manager,Consumer Goods / FMCG,"Bangalore, Chennai, Vadodara",Sales,418,249
+330,221766,Copywriter,Consumer Goods / FMCG,Delhi,"Content Writing, English Content",271,268
+331,264123,Content Writer,Consumer Goods / FMCG,Bangalore,Content Writing,265,275
+332,227483,Staff Engineer,Consumer Goods / FMCG,Noida,"React.js, Architecture, HTML, JavaScript, Redux",401,290
+333,219289,Business Development Executive,Consumer Goods / FMCG,"Greater Noida, Noida","Business Development, Sales",229,317
+334,214384,Sales Manager,Consumer Goods / FMCG,Bangalore,"Customer Relationship, Sales, Telecalling",318,132
+335,236683,Copywriter,Cosmetics / Beauty,Kolkata,"Content Marketing, Content Writing, English Content",256,157
+336,221766,Copywriter,Cosmetics / Beauty,Delhi,"Content Writing, English Content",271,268
+337,264123,Content Writer,Cosmetics / Beauty,Bangalore,Content Writing,265,275
+338,222777,Executive Assistant,Cosmetics / Beauty,Bhopal,"Operations Management, Process Improvement, Vendor Management",383,288
+339,264876,Technical Content Writer - Academic,Education / Training,Chandigarh,Content Writing,265,19
+340,262134,Area Sales Manager,Education / Training,Noida,"Business Development, Corporate Sales, Sales",136,91
+341,261709,Admission Officer,Education / Training,Patna,"Business Development, Corporate Sales, Direct Sales, Sales",94,93
+342,261508,Customer Relationship Manager,Education / Training,Work From Home,"Customer Interaction, Customer Relationship, Customer Service",297,108
+343,265670,Team Leader,Education / Training,"Gurgaon, Hyderabad, Mumbai","Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,130
+344,265258,Regional Manager,Education / Training,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,143
+345,257108,Content Writer,Education / Training,Delhi,"Content Marketing, Content Writing, English Content",256,294
+346,265256,Senior Manager / Manager - Placements,Education / Training,Delhi,"Business Development, Corporate Sales",42,295
+347,264825,Inside Sales Representative,Education / Training,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,332
+348,261382,Marketing Specialist,Education / Training,Bangalore,"Content Marketing, Content Writing, English Content",256,334
+349,251351,Sales Executive,Education / Training,"Mumbai, Work From Home","Business Development, Sales",229,59
+350,252103,Content Marketer,Education / Training,"Bangalore, Mumbai, Pune",Content Writing,265,89
+351,254332,Academic Counsellor,Education / Training,Mumbai,"Business Development, International Sales, Sales, Telecalling",196,162
+352,252499,Sales Executive,Education / Training,"Ghaziabad, Work From Home","Business Development, Direct Sales, Sales",163,170
+353,256364,Admissions Counsellor,Education / Training,Work From Home,"Career Counselling, Direct Sales, Sales, Telecalling",240,184
+354,255554,Salesforce Developer,Education / Training,Hyderabad,Salesforce,423,201
+355,253839,Progress Partner - Business Coach,Education / Training,Bangalore,"Logistics Management, Operations Management, Process Improvement, Production Management, Supply Chain Management",365,235
+356,249219,Telecaller,Education / Training,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service",297,236
+357,256898,Sales Executive / Sr. Executive Tourism,Education / Training,Delhi,"Business Development, Direct Sales, Sales",163,273
+358,257100,Marketing Manager,Education / Training,Hyderabad,Business Development,36,277
+359,239611,Asst. Sales Manager,Education / Training,"Mumbai, Navi Mumbai","Business Development, Corporate Sales, Direct Sales, Sales",94,9
+360,239931,Education Admission Counselor,Education / Training,Noida,"Business Development, Corporate Sales, Sales",136,84
+361,238528,Business Development Executive,Education / Training,Hyderabad,"Business Development, Direct Sales, Sales, Telecalling",171,87
+362,247125,Inside Sales,Education / Training,Kolkata,"Direct Sales, Sales, Telecalling",337,92
+363,246693,Academic Counselor,Education / Training,Noida,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,144
+364,241869,Business Development Executive,Education / Training,Pune,"Business Development, Career Counselling, Education Counselling, Sales, Telecalling",39,188
+365,245912,Educational Counselor,Education / Training,Hyderabad,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,201
+366,240688,Admission Councellor,Education / Training,Delhi,Sales,418,217
+367,248950,Lead Software Engineer (Web),Education / Training,Bangalore,"GraphQL, Node.js, React.js",347,218
+368,242640,Enterprises Sales Officer,Education / Training,Hyderabad,"Business Development, Direct Sales, Sales",163,246
+369,238043,Outbound Sales Specialist,Education / Training,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,99
+370,233168,Field Sales Executive,Education / Training,Gulbarga,"Business Development, Direct Sales, Sales",163,347
+371,234080,Content Writer,Education / Training,Gurgaon,"Content Marketing, Content Writing, English Content",256,350
+372,234072,Content Writer - Social Impact,Education / Training,Gurgaon,"Content Marketing, Content Writing, English Content",256,350
+373,234076,Senior Manager - Growth,Education / Training,Gurgaon,"Business Development, Sales",229,350
+374,234074,Social Impact and Outreach Manager,Education / Training,Gurgaon,"Business Development, Sales",229,350
+375,230638,Business Development Executive,Education / Training,Pune,"Business Development, Corporate Sales, Sales",136,196
+376,228724,Business Development Officer,Education / Training,"Ambala, Chandigarh, Panipat","Business Development, Corporate Sales, Direct Sales, Sales",94,196
+377,235234,Key Account Manager,Education / Training,Work From Home,"Business Development, International Sales, Sales",193,202
+378,233809,Sr. Associate / AM - Global Supply Acquisition,Education / Training,Noida,"Contract Drafting, KAM, Property Acquisition, Proposal Writing",273,311
+379,183532,Business Development Associate,Education / Training,Gurgaon,"International Sales, Business Development, Direct Sales, Sales, Telecalling",352,14
+380,220759,Training Consultant,Education / Training,Delhi,"Direct Sales, Telecalling",338,45
+381,185953,B2B Field Marketing Executive,Education / Training,"Chennai, Hyderabad, Noida","Business Development, Corporate Sales, Direct Sales",44,58
+382,227359,Business Development Manager,Education / Training,Work From Home,"Business Development, Corporate Sales, International Sales, Sales",119,114
+383,159959,Business Development Manager,Education / Training,"Bangalore, Hyderabad, Navi Mumbai",Business Development,36,150
+384,156033,Program Advisor,Education / Training,Bangalore,"Business Development, Sales",229,181
+385,203825,Inside Sales - Lead Development Representative,Education / Training,Work From Home,"Business Development, Corporate Sales, International Sales, Sales",119,202
+386,210599,Business Development Associate,Education / Training,Bangalore,"Business Development, International Sales, Sales",193,259
+387,216657,International Sales Executive,Education / Training,Noida,"Business Development, International Sales, Sales, Telecalling",196,256
+388,177668,Business Development Executive,Education / Training,Mumbai,"Business Development, Corporate Sales, International Sales, Sales, Telecalling",121,339
+389,96021,Admission Counselor,Education / Training,Mumbai,"Business Development, Sales, Telecalling",236,86
+390,154018,B2B Sales Manager,Education / Training,Work From Home,"Business Development, Corporate Sales, Direct Sales, International Sales, Lead Generation, Revenue Management, Sales",45,310
+391,214385,Assistant Sales Manager,Electricals,Delhi,"Direct Sales, Sales, Business Development",335,123
+392,245954,Sales Engineer,Electricals,"Bangalore, Delhi",Sales,418,251
+393,264842,Sales Manager,Events Services,Bangalore,"Business Development, Sales",229,74
+394,265992,B2B Corporate Sales - Gifting Segment,Events Services,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,76
+395,237167,Client Relationship Manager,Events Services,Jaipur,"Logistics Management, Operations Management, Production Management, Vendor Management",367,158
+396,237165,Event Operation Manager,Events Services,Jaipur,"Logistics Management, Operations Management, Procurement, Production Management, Quality Control, Vendor Management",366,158
+397,237168,Hotel Sales Executive,Events Services,Jaipur,Business Development,36,158
+398,243360,Associate Manager - Operations,Facilities Services,Mangalore,"Operations Management, Process Improvement, Procurement, Quality Control, Vendor Management",382,345
+399,261762,Regional Sales Manager,Food / Beverages,Work From Home,"Business Development, Corporate Sales, Direct Sales, Sales",94,78
+400,232279,Sales Associate,Food / Beverages,"Hyderabad, Pune","Business Development, Corporate Sales, Sales",136,83
+401,236683,Copywriter,Food / Beverages,Kolkata,"Content Marketing, Content Writing, English Content",256,157
+402,196060,Field Sales Executive,Food / Beverages,"Chennai, Delhi, Mumbai","Business Development, Direct Sales, Sales",163,185
+403,255066,Territory Sales Manager,Food / Beverages,"Bangalore, Chennai, Vadodara",Sales,418,249
+404,222777,Executive Assistant,Food / Beverages,Bhopal,"Operations Management, Process Improvement, Vendor Management",383,288
+405,220759,Training Consultant,Freight / Logistics / Transportation,Delhi,"Direct Sales, Telecalling",338,45
+406,227715,Area Sales Manager,Freight / Logistics / Transportation,"Ahmedabad, Gandhidham, Mumbai","Business Development, Direct Sales, Sales",163,109
+407,198835,Zonal Head - Sales,Freight / Logistics / Transportation,"Jaipur, Kolkata, Surat","Business Development, Direct Sales, Sales",163,109
+408,264916,SDE 2 (Fullstack),Freight / Logistics / Transportation,Bangalore,"JavaScript, Node.js, React.js, Docker, MongoDB",364,133
+409,246630,Freight Broker,Freight / Logistics / Transportation,Mohali,Customer Service,322,171
+410,254370,Sr. Collections Executive,Freight / Logistics / Transportation,Hyderabad,"Customer Interaction, Customer Relationship",280,239
+411,251077,Traffic Incharge,Freight / Logistics / Transportation,"Gurgaon, Jamshedpur, Mumbai","Customer Service, Key Account Management",324,252
+412,265255,Business Development,Freight / Logistics / Transportation,Gurgaon,"Business Development, International Sales, Sales",193,262
+413,234607,Retail Sales Executive,Furniture,Chennai,"Direct Sales, Sales",334,95
+414,229099,B2B - Sales Associate,Furniture,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,323
+415,256219,Sales Associate - B2B,Furniture,Gurgaon,"Business Development, Direct Sales, Sales",163,323
+416,255066,Territory Sales Manager,Glass / Ceramics,"Bangalore, Chennai, Vadodara",Sales,418,249
+417,245076,Assistant Sales Manager,Glass / Ceramics,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,316
+418,265072,Category Manager,Healthcare / Hospitals,Hyderabad,"Business Development, Category Management",40,21
+419,241806,Pharmacist Assistants,Healthcare / Hospitals,Hyderabad,Pharmacy Operations,386,22
+420,255315,Health Coach Specialist,Healthcare / Hospitals,Bangalore,"Customer Interaction, Customer Relationship, Customer Service",297,49
+421,258362,Sales Manager,Healthcare / Hospitals,Trivandrum,"Business Development, Direct Sales, Sales",163,128
+422,265670,Team Leader,Healthcare / Hospitals,"Gurgaon, Hyderabad, Mumbai","Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,130
+423,258475,Medical Sales Representative - Diabetes Category,Healthcare / Hospitals,Bangalore,"Business Development, Direct Sales, Sales",163,169
+424,255050,Customer Success Specialist - SaaS,Healthcare / Hospitals,Bangalore,"CRM, Customer Interaction, Customer Relationship, Customer Service, Key Account Management",238,248
+425,249137,Marketing Head,Healthcare / Hospitals,Hyderabad,"Direct Sales, Sales",334,263
+426,260666,Medical Sales Representative,Healthcare / Hospitals,Ranchi,Sales,418,270
+427,246632,Content Writer,Healthcare / Hospitals,Ahmedabad,"Content Marketing, Content Writing, English Content",256,327
+428,231941,Business Development Associate,Healthcare / Hospitals,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,81
+429,236699,Document Review & Validator Analyst,Healthcare / Hospitals,"Hyderabad, Work From Home","Customer Service, Key Account Management",324,110
+430,229652,Platform Lead Engineer,Healthcare / Hospitals,Bangalore,Java,362,126
+431,196060,Field Sales Executive,Healthcare / Hospitals,"Chennai, Delhi, Mumbai","Business Development, Direct Sales, Sales",163,185
+432,181559,Senior Software Engineer,Healthcare / Hospitals,Bangalore,"Distributed Systems, Java, Microservices",339,203
+433,88514,Business Development Associate,Healthcare / Hospitals,"Bangalore, Delhi, Work From Home","Business Development, Corporate Sales, Sales",136,223
+434,211281,Senior Product Manager,Healthcare / Hospitals,Bangalore,"Consumer Software, Product Management",241,261
+435,237008,Zonal Sales Manager,Healthcare / Hospitals,"Chandigarh, Ludhiana","Brand Management, Business Development, Category Management, Vendor Management",23,265
+436,228357,Nurse Co - Ordinator,Healthcare / Hospitals,"Bangalore, Mysuru",Operations Management,379,302
+437,264842,Sales Manager,Hospitality / Travel,Bangalore,"Business Development, Sales",229,74
+438,265992,B2B Corporate Sales - Gifting Segment,Hospitality / Travel,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,76
+439,261762,Regional Sales Manager,Hospitality / Travel,Work From Home,"Business Development, Corporate Sales, Direct Sales, Sales",94,78
+440,266937,Content Writer,Hospitality / Travel,Bangalore,"Content Marketing, Content Writing, English Content",256,94
+441,257955,Senior Business Development Manager (Drive),Hospitality / Travel,"Mumbai, Ooty, Wayanad","Business Development, Corporate Sales, Key Account Management, Microsoft Excel, Microsoft PowerPoint, Sales",122,175
+442,256007,Store Manager,Hospitality / Travel,"Ahmedabad, Mumbai, Pune","Inventory Management, Material Management, Operations Management, Quality Control",359,249
+443,256898,Sales Executive / Sr. Executive Tourism,Hospitality / Travel,Delhi,"Business Development, Direct Sales, Sales",163,273
+444,258649,Sales Consultant,Hospitality / Travel,Delhi,"Direct Sales, International Sales, Sales",329,300
+445,256219,Sales Associate - B2B,Hospitality / Travel,Gurgaon,"Business Development, Direct Sales, Sales",163,323
+446,258631,Sales Executive - Travel,Hospitality / Travel,Noida,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,322
+447,240681,Sales Manager,Hospitality / Travel,"Bangalore, Delhi","Business Development, Corporate Sales, Sales",136,16
+448,248053,Business Development - Corporate Sales,Hospitality / Travel,Bangalore,"Business Development, Corporate Sales, Sales",136,34
+449,244424,Revenue Management Executive,Hospitality / Travel,Mumbai,"Corporate Sales, Direct Sales, Sales",276,134
+450,255833,Key Accounts Manager,Hospitality / Travel,Bangalore,"Hotel Operations, Key Account Management, Business Development, Direct Sales",350,183
+451,234811,Front Office Assistant,Hospitality / Travel,Bangalore,Operations Management,379,205
+452,233809,Sr. Associate / AM - Global Supply Acquisition,Hospitality / Travel,Noida,"Contract Drafting, KAM, Property Acquisition, Proposal Writing",273,311
+453,255475,Sales Excusive - FIT,Hospitality / Travel,Chandigarh,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,322
+454,255477,Sales Executive - MICE,Hospitality / Travel,Kolkata,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,322
+455,254798,Sales Executive - MICE,Hospitality / Travel,Noida,"Business Development, Corporate Sales, Direct Sales, Sales",94,322
+456,243360,Associate Manager - Operations,Hospitality / Travel,Mangalore,"Operations Management, Process Improvement, Procurement, Quality Control, Vendor Management",382,345
+457,224747,Travel Sales Consultant,Hospitality / Travel,Delhi,"Business Development, Corporate Sales, International Sales, Sales",119,73
+458,203467,Travel Consultant,Hospitality / Travel,South Africa,Operations Management,379,258
+459,123222,Mall Floor Manager,Hospitality / Travel,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,296
+460,249467,Executive Assistant,Human Resources / Staffing / Recruiting,Noida,"General Management, Corporate Strategy, Strategic Planning",344,25
+461,263190,Corporate Sales Manager,Human Resources / Staffing / Recruiting,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,94
+462,190639,Tech / Non - Tech Recruiter,Human Resources / Staffing / Recruiting,Bangalore,"Recruitment, US Recruitment",403,131
+463,231200,Presales Executive,Human Resources / Staffing / Recruiting,"Bangalore, Mumbai","Business Development, Corporate Sales, Direct Sales, Sales",94,145
+464,234811,Front Office Assistant,Human Resources / Staffing / Recruiting,Bangalore,Operations Management,379,205
+465,236106,Business Development Manager,Human Resources / Staffing / Recruiting,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,211
+466,211281,Senior Product Manager,Human Resources / Staffing / Recruiting,Bangalore,"Consumer Software, Product Management",241,261
+467,196961,Business / Sales Head,Human Resources / Staffing / Recruiting,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,355
+468,266287,Business Development,Human Resources / Staffing / Recruiting,Work From Home,"Business Development, Direct Sales, Sales, Telecalling",171,330
+469,263914,Senior Accountant,Import / Export / Trading,Mumbai,"Accounting, Auditing, Finance, Taxation, Budgeting, External Audit, Financial Analysis, GST, Income Tax, Internal Audit, MIS, Sales Tax, Tally, TDS",11,60
+470,239611,Asst. Sales Manager,Industrial Products / Machinery,"Mumbai, Navi Mumbai","Business Development, Corporate Sales, Direct Sales, Sales",94,9
+471,236699,Document Review & Validator Analyst,Legal,"Hyderabad, Work From Home","Customer Service, Key Account Management",324,110
+472,264512,Client Relationship Manager - Saas Product,Legal,Noida,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,178
+473,209910,Debt Recovery Officer,Legal,"Chandigarh, Delhi, Mumbai",Operations Management,379,247
+474,199336,Business Development Manager,Legal,"Chandigarh, Mohali","Business Development, Corporate Sales, International Sales, Sales",119,293
+475,249467,Executive Assistant,Luxury Goods / Jewellery,Noida,"General Management, Corporate Strategy, Strategic Planning",344,25
+476,230509,Sales Executive - Retail Sales,Luxury Goods / Jewellery,"Bangalore, Chennai, Hyderabad","Direct Sales, Sales",334,48
+477,248940,Associate Sales Manager,Management Consulting,Mumbai,"Business Development, Corporate Sales, Sales",136,2
+478,231007,Wealth Management Executive,Management Consulting,Noida,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,3
+479,255062,Manager - Fixed Assets and Lease Accounting,Management Consulting,Bangalore,"Accounting, Auditing, Finance, Chartered Accountant, Financial Reporting",8,51
+480,256825,Risk & Controls - Specialist SOD,Management Consulting,Bangalore,"GRC, ITGC, SAP S4 HANA, SAP Security, SOD",342,51
+481,261355,Business Development Associate,Management Consulting,Gurgaon,"Business Development, International Sales, Sales",193,102
+482,246937,Primary Research Analyst,Management Consulting,Pune,"Customer Interaction, Customer Relationship, Customer Service",297,179
+483,253839,Progress Partner - Business Coach,Management Consulting,Bangalore,"Logistics Management, Operations Management, Process Improvement, Production Management, Supply Chain Management",365,235
+484,254525,Senior Manager- Implementation Operations,Management Consulting,Bangalore,"Accounting, Finance, Payroll Management",15,250
+485,264592,Content Writer,Management Consulting,"Chandigarh, Noida","Content Writing, English Content, Hindi Content",272,292
+486,266902,Senior Manager - Strategic and Management,Management Consulting,Mumbai,"General Management, Corporate Strategy, Strategic Planning",344,307
+487,154018,B2B Sales Manager,Management Consulting,Work From Home,"Business Development, Corporate Sales, Direct Sales, International Sales, Lead Generation, Revenue Management, Sales",45,310
+488,83118,Content Writer,Market Research / Analytics,"Chennai, Work From Home","Content Marketing, Content Writing",248,149
+489,259038,Senior / Executive Business Development,Market Research / Analytics,Coimbatore,"Business Development, Corporate Sales, International Sales, Sales",119,207
+490,257387,Internal Controls Analyst,Market Research / Analytics,"Bangalore, Chennai, Work From Home","Operations Management, Process Improvement",381,218
+491,265722,Sales Development Representative,Market Research / Analytics,Pune,"Business Development, Corporate Sales, International Sales, Sales",119,219
+492,265001,Content Writer,Market Research / Analytics,Delhi,"Content Writing, English Content",271,282
+493,239213,Data Analyst,Market Research / Analytics,Bangalore,"Python, SQL",398,324
+494,265992,B2B Corporate Sales - Gifting Segment,Marketing / Advertising,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,76
+495,261709,Admission Officer,Marketing / Advertising,Patna,"Business Development, Corporate Sales, Direct Sales, Sales",94,93
+496,266937,Content Writer,Marketing / Advertising,Bangalore,"Content Marketing, Content Writing, English Content",256,94
+497,261355,Business Development Associate,Marketing / Advertising,Gurgaon,"Business Development, International Sales, Sales",193,102
+498,262059,Content Writer,Marketing / Advertising,Noida,"Content Writing, English Content",271,119
+499,264783,Telecaller,Marketing / Advertising,Jaipur,"Sales, Telecalling",422,142
+500,261226,Lead Generation Executive,Marketing / Advertising,Gurgaon,"Business Development, Sales",229,168
+501,263945,Business Development,Marketing / Advertising,Delhi,"Business Development, Corporate Sales, International Sales",104,182
+502,260537,Lead Development (Influencer Marketing) (Drive),Marketing / Advertising,Bangalore,"Business Development, CRM, Lead Generation, Marketing",38,213
+503,265069,Principal Software Engineer,Marketing / Advertising,Pune,"Magento, Advertising, Java, Linux",368,233
+504,244358,Sales Officer,Marketing / Advertising,Ghaziabad,"Business Development, Corporate Sales, Direct Sales, Sales",94,17
+505,254296,Content & Community Lead,Marketing / Advertising,Gurgaon,"Content Marketing, Content Writing",248,28
+506,246364,Sales Officer (SO),Marketing / Advertising,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,52
+507,258073,Business Development Executive,Marketing / Advertising,Mumbai,"Business Development, Sales",229,64
+508,255503,Sales Executive,Marketing / Advertising,Pune,"Business Development, Corporate Sales, Sales, Telecalling",140,67
+509,247451,Software Development Engineer 2 - Data Acquisition,Marketing / Advertising,Bangalore,"Hibernate, J2EE, Java, Spring",349,71
+510,253943,Sales Executive- Real Estate,Marketing / Advertising,Chennai,"Business Development, Sales, Telecalling",236,267
+511,256959,Business Development Manager - Digital,Marketing / Advertising,Delhi,Business Development,36,286
+512,243792,Presales Cosultant,Marketing / Advertising,Chennai,Business Development,36,331
+513,255785,Social Media Manager,Marketing / Advertising,Hyderabad,"Content Marketing, Content Writing",248,343
+514,231007,Wealth Management Executive,Marketing / Advertising,Noida,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,3
+515,229897,Digital Marketing Executive,Marketing / Advertising,Gurgaon,Operations Management,379,35
+516,240080,Business Development Manager,Marketing / Advertising,Ahmedabad,"Business Development, International Sales, Sales",193,155
+517,240641,Telemarketing Specialist,Marketing / Advertising,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,174
+518,234811,Front Office Assistant,Marketing / Advertising,Bangalore,Operations Management,379,205
+519,234706,Sports Copywriter,Marketing / Advertising,Delhi,Content Writing,265,279
+520,231271,Sales Executive (B2B),Marketing / Advertising,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,305
+521,233408,Ad Sales,Marketing / Advertising,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,315
+522,224891,Client Servicing Executive,Marketing / Advertising,Mumbai,"Customer Interaction, Customer Relationship, Customer Service",297,318
+523,226941,Business Development Executive - Sales (Tamil),Marketing / Advertising,Noida,"Business Development, Corporate Sales, International Sales, Sales",119,344
+524,172139,Content Writers,Marketing / Advertising,Patna,"Content Marketing, Content Writing, English Content, Hindi Content",257,46
+525,194538,Customer Success Specialist,Marketing / Advertising,Bangalore,"Customer Interaction, Customer Relationship, Key Account Management",312,71
+526,83118,Content Writer,Marketing / Advertising,"Chennai, Work From Home","Content Marketing, Content Writing",248,149
+527,164981,Product Content Writer,Marketing / Advertising,Pune,"Content Marketing, Content Writing, English Content",256,228
+528,221766,Copywriter,Marketing / Advertising,Delhi,"Content Writing, English Content",271,268
+529,188840,Sales Manager,Marketing / Advertising,Mumbai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,274
+530,258073,Business Development Executive,Media / Entertainment,Mumbai,"Business Development, Sales",229,64
+531,233364,Business Development,Media / Entertainment,Gurgaon,"Business Development, Sales",229,70
+532,252103,Content Marketer,Media / Entertainment,"Bangalore, Mumbai, Pune",Content Writing,265,89
+533,241809,Entertainment Content Writer,Media / Entertainment,Mumbai,"Content Writing, English Content",271,101
+534,261226,Lead Generation Executive,Media / Entertainment,Gurgaon,"Business Development, Sales",229,168
+535,265990,Digital Sales Executive - Digital Marketing,Media / Entertainment,Mumbai,"Business Development, Direct Sales, Sales",163,187
+536,250742,SUB Editor - Digital News Desk,Media / Entertainment,Mumbai,"Content Writing, English Content",271,187
+537,266953,Content Writing Specialist,Media / Entertainment,Mumbai,"Content Marketing, Content Writing",248,307
+538,233408,Ad Sales,Media / Entertainment,Gurgaon,"Business Development, Corporate Sales, Direct Sales, Sales",94,315
+539,260615,Associate Program Manager,Media / Entertainment,Navi Mumbai,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,333
+540,188840,Sales Manager,Media / Entertainment,Mumbai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,274
+541,146010,Inside Sales Specialist,Media / Entertainment,Delhi,"Business Development, Corporate Sales, Sales",136,276
+542,231271,Sales Executive (B2B),Media / Entertainment,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,305
+543,258362,Sales Manager,Medical Devices,Trivandrum,"Business Development, Direct Sales, Sales",163,128
+544,258475,Medical Sales Representative - Diabetes Category,Medical Devices,Bangalore,"Business Development, Direct Sales, Sales",163,169
+545,246632,Content Writer,Medical Devices,Ahmedabad,"Content Marketing, Content Writing, English Content",256,327
+546,250042,Corporate Sales Executive,Mining / Metals / Steel,Chandigarh,"Corporate Sales, Direct Sales, Sales",276,257
+547,234778,Business Management Consultant,Nonprofit / Social Services,Mumbai,"Business Development, General Management, Operations Management, Strategic Planning",174,141
+548,247482,Project Coordinator,Nonprofit / Social Services,Mumbai,Operations Management,379,224
+549,225906,Account Manager,Oil & Gas / Infrastructure / Energy,Delhi,"Business Development, Sales",229,72
+550,237050,Medical Representative,Pharma / Biotech,Noida,"Business Development, Direct Sales, Sales",163,12
+551,241806,Pharmacist Assistants,Pharma / Biotech,Hyderabad,Pharmacy Operations,386,22
+552,258362,Sales Manager,Pharma / Biotech,Trivandrum,"Business Development, Direct Sales, Sales",163,128
+553,264372,Sales Engineer / Sales Executive,Pharma / Biotech,"Bangalore, Hyderabad, Mumbai",Sales,418,260
+554,246632,Content Writer,Pharma / Biotech,Ahmedabad,"Content Marketing, Content Writing, English Content",256,327
+555,264592,Content Writer,Political Organization,"Chandigarh, Noida","Content Writing, English Content, Hindi Content",272,292
+556,244358,Sales Officer,Printing / Packaging,Ghaziabad,"Business Development, Corporate Sales, Direct Sales, Sales",94,17
+557,250129,Sr. Business Development Executive,Printing / Packaging,Bangalore,"Business Development, Sales",229,226
+558,242179,Administrative Executive,Public Relations,Bangalore,"Inventory Management, Material Management, Procurement, Vendor Management",360,160
+559,264592,Content Writer,Public Relations,"Chandigarh, Noida","Content Writing, English Content, Hindi Content",272,292
+560,233364,Business Development,Publishing,Gurgaon,"Business Development, Sales",229,70
+561,263945,Business Development,Publishing,Delhi,"Business Development, Corporate Sales, International Sales",104,182
+562,261434,Senior Principal Consultant - Data Operations,Real Estate / Property,Bangalore,"Business Development, Data Analysis",142,6
+563,266265,Site Head,Real Estate / Property,Mumbai,"Direct Sales, Sales",334,5
+564,264842,Sales Manager,Real Estate / Property,Bangalore,"Business Development, Sales",229,74
+565,265670,Team Leader,Real Estate / Property,"Gurgaon, Hyderabad, Mumbai","Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,130
+566,256649,Sales Manager,Real Estate / Property,Bangalore,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",59,137
+567,265466,Asst.Manager - Sales,Real Estate / Property,Chennai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,180
+568,256564,Sales Executive,Real Estate / Property,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,231
+569,254339,Business Manager,Real Estate / Property,Chennai,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales, Telecalling",69,267
+570,256415,Sales Manager - Real Estate,Real Estate / Property,Chennai,"Business Development, Sales",229,267
+571,256219,Sales Associate - B2B,Real Estate / Property,Gurgaon,"Business Development, Direct Sales, Sales",163,323
+572,251833,Sales Executive,Real Estate / Property,Bangalore,"Business Development, Sales",229,346
+573,235772,Front Desk Executive,Real Estate / Property,Bangalore,Process Improvement,387,42
+574,248387,Sales Executive,Real Estate / Property,Chennai,Sales,418,61
+575,247125,Inside Sales,Real Estate / Property,Kolkata,"Direct Sales, Sales, Telecalling",337,92
+576,241120,Relationship Manager,Real Estate / Property,Kolkata,"Customer Relationship, Direct Sales, Sales",315,135
+577,242179,Administrative Executive,Real Estate / Property,Bangalore,"Inventory Management, Material Management, Procurement, Vendor Management",360,160
+578,253943,Sales Executive- Real Estate,Real Estate / Property,Chennai,"Business Development, Sales, Telecalling",236,267
+579,253970,Sales Executive/ Presales- Real Estate,Real Estate / Property,Chennai,"Business Development, Direct Sales, Sales, Telecalling",171,267
+580,253469,Sales Manager- Real Estate,Real Estate / Property,Chennai,"Business Development, Direct Sales, Sales, Telecalling",171,267
+581,251871,Executive Operations (Post Closing),Real Estate / Property,Bangalore,"Operations Management, Sales, Customer Service, Telecalling",385,338
+582,235121,Telecaller,Real Estate / Property,Bangalore,"Sales, Telecalling",422,42
+583,197275,Sales Executive,Real Estate / Property,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales",94,148
+584,196440,Business Development Executive,Real Estate / Property,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,190
+585,225932,Senior Sales Manager,Real Estate / Property,Bangalore,"Direct Sales, Sales, Telecalling",337,230
+586,225052,Team Leader,Real Estate / Property,Bangalore,"Business Development, Direct Sales, Sales, Telecalling",171,230
+587,173785,Real Estate Sales Manager,Real Estate / Property,Bangalore,"Business Development, Corporate Sales, Direct Sales, Presales, Sales, Telecalling",70,232
+588,116133,Associate / Senior Associate - Real Estate Sales,Real Estate / Property,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,238
+589,188004,Real Estate Sales Expert,Real Estate / Property,Mumbai,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",103,238
+590,229099,B2B - Sales Associate,Real Estate / Property,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,323
+591,252200,Key Account Manager - Brand Specialist,Retail,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,18
+592,265072,Category Manager,Retail,Hyderabad,"Business Development, Category Management",40,21
+593,247451,Software Development Engineer 2 - Data Acquisition,Retail,Bangalore,"Hibernate, J2EE, Java, Spring",349,71
+594,263798,Big Data Scientist,Retail,Bangalore,"Java, Python, SQA, Spark, Scala",363,127
+595,242179,Administrative Executive,Retail,Bangalore,"Inventory Management, Material Management, Procurement, Vendor Management",360,160
+596,259669,Business Development Professional - Shopify,Retail,Work From Home,"Business Development, Sales, Shopify",231,177
+597,255993,Sales Officer,Retail,Raipur,"Business Development, Corporate Sales, Direct Sales, Sales",94,249
+598,266441,Data Scientist,Retail,Work From Home,"Demand Forecasting, Python, Machine Learning, PySpark, Sales Forecasting",325,272
+599,244334,Area Training Executive - Retail Sales Trainer,Retail,"Bangalore, Delhi",Sales,418,323
+600,243360,Associate Manager - Operations,Retail,Mangalore,"Operations Management, Process Improvement, Procurement, Quality Control, Vendor Management",382,345
+601,234607,Retail Sales Executive,Retail,Chennai,"Direct Sales, Sales",334,95
+602,235458,Sales Manager,Retail,Bangalore,"Customer Relationship, Marketing, Sales",317,132
+603,123222,Mall Floor Manager,Retail,Bangalore,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",311,296
+604,209910,Debt Recovery Officer,Security / Law Enforcement,"Chandigarh, Delhi, Mumbai",Operations Management,379,247
+605,199336,Business Development Manager,Security / Law Enforcement,"Chandigarh, Mohali","Business Development, Corporate Sales, International Sales, Sales",119,293
+606,239931,Education Admission Counselor,Telecommunications,Noida,"Business Development, Corporate Sales, Sales",136,84
+607,229346,Business Development Executive,Telecommunications,Madurai,"Business Development, Sales, Telecalling",236,96
+608,255690,Process Trainer,Telecommunications,Chennai,"Behavioural Training, Corporate Training, Training Management",21,115
+609,253482,Sales Support,Telecommunications,Gurgaon,"Customer Interaction, Customer Relationship, Customer Service, Grievance Management",298,130
+610,265258,Regional Manager,Telecommunications,Bangalore,"Business Development, Corporate Sales, Direct Sales, Sales",94,143
+611,266267,B2B Enterprise Marketing Specialist,Telecommunications,Work From Home,Business Development,36,186
+612,256434,Deputy Manager - Revenue Assurance,Telecommunications,Gurgaon,"Accounting, Budgeting, Chartered Accountant, Finance, Financial Analysis, Financial Planning, Financial Reporting, MIS",13,197
+613,266549,Sr. Presales Consultant,Telecommunications,Hyderabad,"Business Development, Sales",229,237
+614,243146,JC JHD Sales Lead,Telecommunications,Hyderabad,"Business Development, Direct Sales, Sales",163,246
+615,241862,Business Development Manager,Telecommunications,Mumbai,"Business Development, Sales",229,281
+616,225906,Account Manager,Telecommunications,Delhi,"Business Development, Sales",229,72
+617,253839,Progress Partner - Business Coach,Wellness / Fitness / Sports,Bangalore,"Logistics Management, Operations Management, Process Improvement, Production Management, Supply Chain Management",365,235
+618,264123,Content Writer,Wellness / Fitness / Sports,Bangalore,Content Writing,265,275
+619,234706,Sports Copywriter,Wellness / Fitness / Sports,Delhi,Content Writing,265,279
+620,222777,Executive Assistant,Wellness / Fitness / Sports,Bhopal,"Operations Management, Process Improvement, Vendor Management",383,288
+621,226941,Business Development Executive - Sales (Tamil),Wholesale,Noida,"Business Development, Corporate Sales, International Sales, Sales",119,344

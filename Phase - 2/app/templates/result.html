@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Prediction Result</title>
+    <style>
+        body {
+            font-family: Comic Sans MS, Comic Sans, cursive;
+            background-color: lightcyan;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: aliceblue;
+            border-radius: 25px;
+            box-shadow: 0px 0px 20px 20px rgba(150, 0, 200, 0.1);
+            padding: 25px;
+         }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        a {
+            display: block;
+            font-size: 18px;
+            text-align: right;
+            margin-top: 30px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #0056b3;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Job Prediction Result</h1>
+        <table>
+            <tr>
+                <th>Skill:</th>
+                <td>{{ skill }}</td>
+            </tr>
+            <tr>
+                <th>Most Common Experience Level:</th>
+                <td>{{ experience_level }}</td>
+            </tr>
+            <tr>
+                <th>Most Common Industry:</th>
+                <td>{{ industry }}</td>
+            </tr>
+            <tr>
+                <th>Most Common Job Class:</th>
+                <td>{{ job_class }}</td>
+            </tr>
+            <tr>
+                <th>Total Job Count:</th>
+                <td>{{ job_count }}</td>
+            </tr>
+        </table>
+        
+        <!-- Add the anchor tag to go to job_details page -->
+        <a href="/job_details/{{skill}}">Look for all job details>></a>
+    </div>
+</body>
+</html>
